@@ -1,3 +1,5 @@
+SRMChat - A Web Based Chatting Portal
+
 On the Internet, chatting is talking to other people who are using the Internet at the same
 time you are. Usually, this "talking" is the exchange of typed-in messages requiring one site
 as the repository for the messages (or "chat site") and a group of users who take part from
